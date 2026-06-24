@@ -10,7 +10,6 @@ santhosh@berlin:~$ whoami
   Focus    : Azure · Terraform · Kubernetes · Observability
   Next     : AI Infrastructure Engineering
   Based in : Berlin 🇩🇪  |  From: Visakhapatnam 🇮🇳
-  Target   : US (AI Platform roles) ~2028
 ───────────────────────────────────────────────────────────
 ```
 
