@@ -34,7 +34,12 @@ santhosh@berlin:~$ whoami
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Currently Learning**  
+**AI / LLM Infrastructure**  
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square&logo=langfuse&logoColor=white)
+
+**Currently Exploring**  
 ![NVIDIA](https://img.shields.io/badge/GPU_Infrastructure-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Infra_Engineering-FF6B35?style=flat-square&logo=openai&logoColor=white)
 
@@ -56,6 +61,7 @@ santhosh@berlin:~$ whoami
 | Project | What | Impact |
 |---|---|---|
 | **F5 XC CDN/WAF POC** | Migrated `uat.candidate.adecco.com` AFD → F5 Distributed Cloud | 3.5-month POC, full runbooks |
+| **Web App → Container Apps Migration** | Architecture strategy for migrating Azure Web Apps to Container Apps, via Terraform + Azure DevOps pipelines | New target-state IaC pattern for CP platform |
 | **Databricks FinOps** | VACUUM + OPTIMIZE across DEV/UAT/PRD Hive Metastore | ~€252/day savings |
 | **Alert Rules Migration** | 400+ scheduled query rules → new ARM API schema | Zero production regressions |
 | **Expo Mobile CI/CD** | Azure DevOps pipeline for React Native Candidate Portal app | APK/IPA analysis + approval gates |
@@ -65,9 +71,9 @@ santhosh@berlin:~$ whoami
 
 ## 📍 What I'm up to
 
-- 🔬 Studying for **NVIDIA NCA-AIIO** (AI Infrastructure & Operations)
-- 📚 Building a GPU/CUDA knowledge base for SRE → AI Infra transition
-- 🏗️ Exploring **MCP server tooling** for infrastructure automation POCs  
+- 📖 Reading up on **NVIDIA GPU architecture & CUDA fundamentals** for AI infrastructure
+- 🧠 Exploring **LangChain**, **Langfuse**, and **Azure AI Foundry** for LLM system observability & orchestration
+- 🏗️ Designing a **Container Apps migration strategy** (Terraform + Azure DevOps) for Web Apps workloads
 - 🎯 Targeting **AI Platform Engineering** roles around 2028 (US, L-1 route)
 
 ---
