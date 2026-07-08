@@ -1,7 +1,7 @@
 # Hi, I'm Santhosh 👋
 
 **Senior SRE @ Adecco Digital · Berlin, Germany**  
-SRE for the AI era ,infrastructure that keeps ML/AI workloads reliable at scale.
+SRE for the AI era — infrastructure that keeps ML/AI workloads reliable at scale.
 
 ```
 santhosh@berlin:~$ whoami
@@ -41,6 +41,9 @@ santhosh@berlin:~$ whoami
 **AI Infrastructure (Day-to-Day)**  
 ![NVIDIA](https://img.shields.io/badge/GPU_Infrastructure-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
+**Exploring**  
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
 ---
 
 ## 🏗️ Site Reliability Engineering Highlights
@@ -61,7 +64,7 @@ Cut Databricks storage spend ~€252/day through recurring VACUUM/OPTIMIZE autom
 Modernized alerting infrastructure across environments with zero production regressions, and built automated SLI/SLO definition for applications to drive consistent reliability targets.
 
 **Mobile Delivery**  
-Built CI/CD for a React Native mobile app , automated APK/IPA builds with approval gates.
+Built CI/CD for a React Native mobile app — automated APK/IPA builds with approval gates.
 
 ---
 
@@ -70,6 +73,7 @@ Built CI/CD for a React Native mobile app , automated APK/IPA builds with approv
 - 📖 Reading up on **NVIDIA GPU architecture & CUDA fundamentals** for AI infrastructure
 - 🔗 Integrating **LangChain** and **Langfuse** with **Azure AI Foundry** — in progress
 - 🏗️ Designing a **Container Apps migration strategy** (Terraform + Azure DevOps) for Web Apps workloads
+- 🧭 Tinkering with **SAP BTP** on the side, out of curiosity
 
 ---
 
