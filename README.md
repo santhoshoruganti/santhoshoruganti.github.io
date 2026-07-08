@@ -7,8 +7,7 @@ Building reliable infrastructure for ML/AI workloads & LLM systems
 santhosh@berlin:~$ whoami
 ───────────────────────────────────────────────────────────
   Role     : Senior Site Reliability Engineer
-  Focus    : Azure · Terraform · Kubernetes · Observability
-  Next     : AI Infrastructure Engineering
+  Focus    : Azure · Terraform · Kubernetes · Observability· AI Infrastructure
   Based in : Berlin 🇩🇪  |  From: Visakhapatnam 🇮🇳
 ───────────────────────────────────────────────────────────
 ```
