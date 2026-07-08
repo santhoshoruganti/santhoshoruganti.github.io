@@ -9,7 +9,7 @@ santhosh@berlin:~$ whoami
   Role     : Senior Site Reliability Engineer
   Focus    : Azure · Terraform · Kubernetes · Observability · AI Infrastructure
   Based in : Berlin 🇩🇪  |  From: Visakhapatnam 🇮🇳
-───────────────────────────────────────────────────────────
+──────────────────────────────────────────────────────────
 ```
 
 ---
