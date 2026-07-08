@@ -82,7 +82,3 @@ Built CI/CD for a React Native mobile app — automated APK/IPA builds with appr
 ---
 
 <sub>💡 Open to conversations about AI Infrastructure, SRE platform roles, and community speaking.</sub>
-
-<!-- GoatCounter analytics -->
-<script data-goatcounter="https://santhoshoruganti.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
