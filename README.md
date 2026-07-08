@@ -44,7 +44,7 @@ santhosh@berlin:~$ whoami
 
 ---
 
-## 🏗️ Platform Architecture & Impact
+## 🏗️ Site Reliability Engineering Highlights
 
 **Cloud Modernization**  
 Migrated legacy Web Apps to Container Apps — new target-state architecture on Terraform + Azure DevOps pipelines, replacing manual deploys with a repeatable IaC pattern.
@@ -71,7 +71,6 @@ Built CI/CD for a React Native mobile app — automated APK/IPA builds with appr
 - 📖 Reading up on **NVIDIA GPU architecture & CUDA fundamentals** for AI infrastructure
 - 🔗 Integrating **LangChain** and **Langfuse** with **Azure AI Foundry** — in progress
 - 🏗️ Designing a **Container Apps migration strategy** (Terraform + Azure DevOps) for Web Apps workloads
-- 🎯 Targeting **AI Platform Engineering** roles around 2028 (US, L-1 route)
 
 ---
 
