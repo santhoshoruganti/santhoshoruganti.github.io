@@ -56,16 +56,25 @@ santhosh@berlin:~$ whoami
 
 ---
 
-## 🚀 Featured Work
+## 🏗️ Platform Architecture & Impact
 
-| Project | What | Impact |
-|---|---|---|
-| **F5 XC CDN/WAF POC** | Migrated `uat.candidate.adecco.com` AFD → F5 Distributed Cloud | 3.5-month POC, full runbooks |
-| **Web App → Container Apps Migration** | Architecture strategy for migrating Azure Web Apps to Container Apps, via Terraform + Azure DevOps pipelines | New target-state IaC pattern for CP platform |
-| **Databricks FinOps** | VACUUM + OPTIMIZE across DEV/UAT/PRD Hive Metastore | ~€252/day savings |
-| **Alert Rules Migration** | 400+ scheduled query rules → new ARM API schema | Zero production regressions |
-| **Expo Mobile CI/CD** | Azure DevOps pipeline for React Native Candidate Portal app | APK/IPA analysis + approval gates |
-| **P1 Incident Recovery** | Accidental deletion of APIM + 66 web apps + Key Vault | Full restoration led end-to-end |
+**Cloud Modernization**  
+Migrated legacy Web Apps to Container Apps — new target-state architecture on Terraform + Azure DevOps pipelines, replacing manual deploys with a repeatable IaC pattern.
+
+**Resilience Engineering**  
+Designed and led recovery workflows for critical infrastructure failures, restoring core platform services with zero data loss and hardening systems against recurrence.
+
+**Edge & Delivery**  
+Ran a 3.5-month CDN/WAF migration POC (Azure Front Door → F5 Distributed Cloud), with full runbooks for production rollout.
+
+**FinOps**  
+Cut Databricks storage spend ~€252/day through recurring VACUUM/OPTIMIZE automation across DEV/UAT/PRD environments.
+
+**Observability at Scale**  
+Modernized alerting infrastructure across environments with zero production regressions, and built automated SLI/SLO definition for applications to drive consistent reliability targets.
+
+**Mobile Delivery**  
+Built CI/CD for a React Native mobile app — automated APK/IPA builds with approval gates.
 
 ---
 
