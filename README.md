@@ -1,7 +1,7 @@
 # Hi, I'm Santhosh 👋
 
 **Senior SRE @ Adecco Digital · Berlin, Germany**  
-Building reliable infrastructure for ML/AI workloads & LLM systems
+SRE for the AI era ,infrastructure that keeps ML/AI workloads reliable at scale.
 
 ```
 santhosh@berlin:~$ whoami
