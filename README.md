@@ -61,7 +61,7 @@ Cut Databricks storage spend ~€252/day through recurring VACUUM/OPTIMIZE autom
 Modernized alerting infrastructure across environments with zero production regressions, and built automated SLI/SLO definition for applications to drive consistent reliability targets.
 
 **Mobile Delivery**  
-Built CI/CD for a React Native mobile app — automated APK/IPA builds with approval gates.
+Built CI/CD for a React Native mobile app , automated APK/IPA builds with approval gates.
 
 ---
 
