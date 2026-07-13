@@ -12,6 +12,8 @@ santhosh@berlin:~$ whoami
 ──────────────────────────────────────────────────────────
 ```
 
+![Visitor Count](https://github-visitor-counter-tau.vercel.app/api?username=santhoshoruganti)
+
 ---
 
 ## 🔧 Tech Stack
